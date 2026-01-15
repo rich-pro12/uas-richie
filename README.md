@@ -1,4 +1,7 @@
 # uas-richie
+### Richie Pranata
+### 312410451
+### TI.24.A.5
 
 # 📌 Aplikasi CRUD Items – PHP Native (MVC)
 
@@ -197,14 +200,18 @@ Hasil Dari Running :
 ## 📸 Tampilan Aplikasi
 
 ### 🔐 Halaman Login
-![Halaman Login](screenshots/login.png)
+<img width="772" height="435" alt="Screenshot 2026-01-15 104701" src="https://github.com/user-attachments/assets/8e759309-9800-44eb-ba61-951ef49ee45a" />
 
 ### 📋 Halaman Data Items
-![Data Items](screenshots/items.png)
+<img width="1784" height="303" alt="Screenshot 2026-01-15 104820" src="https://github.com/user-attachments/assets/1954e7d0-9e08-4535-9887-84cbbc534d9d" />
 
 ### ➕ Tambah Data Items
-![Tambah Data](screenshots/create.png)
+<img width="1862" height="629" alt="Screenshot 2026-01-15 104718" src="https://github.com/user-attachments/assets/b82ecd58-37db-4622-98d7-12b7664487f5" />
 
 ### ✏️ Edit Data Items
-![Edit Data](screenshots/edit.png)
+<img width="1803" height="434" alt="Screenshot 2026-01-15 104809" src="https://github.com/user-attachments/assets/5983a4bd-d401-4a2c-a8cb-b39561edf728" />
+
+link youtube :
+https://youtu.be/OYaG-BtcVRM
+
 
